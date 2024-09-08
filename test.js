@@ -1,6 +1,6 @@
 const SmsWhatsAppCli = require('./index');
 
-const token = 'Ookdkuuf8867jJgdkPKDydKSr8ska';
+const token = 'TuTokenAquí';
 const client = new SmsWhatsAppCli(token);
 
 (async () => {
