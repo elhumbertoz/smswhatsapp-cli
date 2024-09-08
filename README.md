@@ -12,10 +12,10 @@ npm install smswhatsapp-cli
 ```javascript
 const SmsWhatsAppCli = require('smswhatsapp-cli');
 
-const token = 'TuTokenDeSmsWhatsApp';
+const token = 'Phone03';
 const client = new SmsWhatsAppCli(token);
 
-client.sendMessage('593969626740@c.us', '¡Hola mundo!');
+client.sendMessage('1234567890', '¡Hola mundo!');
 ```
 
 ## Funciones
